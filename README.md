@@ -5,6 +5,7 @@ This GitHub repository hosts an advanced financial analysis project centered aro
 The Long Short-Term Memory (LSTM) model is a specialized type of recurrent neural network (RNN) designed to effectively capture and learn from sequential data. It excels at understanding long-range dependencies and patterns within sequences, making it ideal for tasks like time series forecasting, natural language processing, and speech recognition.
 
 <h1> Setup Instructions (From Scratch) </h1>
+
 ## Clone the Repository 
 
 ```bash
